@@ -46,5 +46,5 @@ I mostly work with flutter mobile applications, Python, MVC Frameworks and Cloud
 
 ### 📫 How to reach me?
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/afzalsorathiya/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:afzalsorathiya@gmail.com) 💌

@@ -8,12 +8,6 @@ I mostly work with flutter mobile applications, and Cloud based technologies. ðŸ
 <a href="https://www.flutter.dev/" target="_blank">
     <img src="https://roszkowski.dev/images/2020-05-04/Flutter-logo-animation-v1-2.gif"  height="80" /> 
 </a>
-<a href="https://firebase.google.com/" target="_blank">
-    <img src="https://cdn.dribbble.com/users/6295/screenshots/6509850/f.gif"  height="80" /> 
-</a>
-<a href="https://docs.swift.org/" target="_blank">
-    <img src="https://i.pinimg.com/originals/ef/a8/15/efa8153bff151de7d1047294de82d529.gif"  height="80" /> 
-</a>
 
 ### Website Development
 <p float="left">
@@ -53,6 +47,7 @@ I mostly work with flutter mobile applications, and Cloud based technologies. ðŸ
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="80" />
   </a>
+  
  </p>
 
 
